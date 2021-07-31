@@ -1,5 +1,5 @@
 ## Hi there, my name is Maykell 👋
-I'm a web developer, mainly front-end developer with React with a couple of years of experience.
+I'm a web developer, mainly a front-end developer with React, creating applications that improve the user experience. I am a fan of self-taught education and I am focused on keeping myself constantly updated.
 <br>
 <div>
   <a href="https://github.com/macs15">
