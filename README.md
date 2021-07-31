@@ -3,16 +3,16 @@ I'm a web developer, mainly front-end developer with React with a couple of year
 <br>
 <div>
   <a href="https://github.com/macs15">
-  <img src="https://github-readme-stats.vercel.app/api?username=macs15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macs15&layout=compact&langs_count=7&theme=dracula"/>
-  <div align="right">
-    <img align="center" alt="JavaScript" height="30" width="40" src="./icons/javascript.svg">
-    <img align="center" alt="TypeScript" height="30" width="40" src="./icons/typescript.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="./icons/html.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="./icons/css.svg">
-    <img align="center" alt="React" height="30" width="40" src="./icons/react.svg">
-    <img align="center" alt="Redux" height="30" width="40" src="./icons/redux.svg">
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macs15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macs15&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div align="right">
+  <img align="center" alt="JavaScript" height="30" width="40" src="./icons/javascript.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="./icons/typescript.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="./icons/html.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="./icons/css.svg">
+  <img align="center" alt="React" height="30" width="40" src="./icons/react.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="./icons/redux.svg">
 </div>
 
 ![Snake animation](https://github.com/macs15/macs15/blob/output/github-contribution-grid-snake.svg)
